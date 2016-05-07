@@ -66,13 +66,13 @@ a {
 -------------------------------------------------------------- */
 
 body {
-	background: #000000;
-	color: #ffffff;
+	background: #ffffff;
+	color: #000000;
 	font: "Book Antique", "Times New Roman", Verdana, Arial, Helvetica, Tahoma, sans-serif;
 	font-size: 14pt
 }
 a {
-	color: #ffffff;
+	color: #000000;
 }
 #content {
 	margin: 0 auto;
@@ -90,12 +90,12 @@ pre {
 	font-family: "Courier new", Courier, monospace;
 }
 #header {
-	background: #000000;
+	background: #ffffff;
 	border-bottom: 1px solid #7f7f7f;
 	padding: 25px 0 10px;
 }
 #blog-description {
-	color: #ffffff;
+	color: #000000;
 }
 #innerheader {
 	margin: 0 auto;
@@ -108,7 +108,7 @@ header h1 {
 	margin: 1px 0;
 }
 #header h1 a {
-	color: #ffffff;
+	color: #000000;
 }
 #branding {
 	margin: 0 auto -45px;
@@ -118,7 +118,7 @@ header h1 {
 	margin: 10px 0 3px;
 }
 #footer {
-	background: #000000;
+	background: #ffffff;
 	border-bottom: 1px solid #7f7f7f;
 	clear: both;
 	padding: 15px 0;
@@ -159,7 +159,7 @@ h2.entry-title {
 	word-wrap: break-word;
 }
 .sticky {
-	background: #000000;
+	background: #ffffff;
 	padding: 10px 0;
 }
 .sticky h2.entry-title a {
@@ -195,9 +195,9 @@ h2.entry-title {
 }
 blockquote,
 .archive-meta {
-	background: #000000;
+	background: #ffffff;
 	border: 1px dotted #7f7f7f;
-	color: #ffffff;
+	color: #000000;
 	margin-bottom: 1.5em;
 }
 blockquote p,
@@ -274,10 +274,10 @@ body.single .navigation {
 	float: left;
 }
 #globalnav #menu li a {
-	background: #000000;
+	background: #ffffff;
 	border-bottom: 1px solid #7f7f7f;
 	border-top: 1px solid #7f7f7f;
-	color: #ffffff;
+	color: #000000;
 	display: block;
 	padding: 9px 15px 10px;
 }
@@ -285,7 +285,7 @@ body.single .navigation {
 #globalnav #menu li .current_page_item,
 #globalnav #menu li .current-menu-item,
 #globalnav #menu li .current-menu-ancestor {
-	background: #000000;
+	background: #ffffff;
 	border-top: 1px solid #7f7f7f;
 }
 #container {
@@ -316,12 +316,12 @@ body.single .navigation {
 	min-width: 85px;
 }
 #globalnav #menu ul a {
-	background: #000000;
+	background: #ffffff;
 	margin: 0;
 	width: 120px;
 }
 #globalnav #menu ul ul li:first-child a {
-	border-top: 1px solid #000000;
+	border-top: 1px solid #ffffff;
 }
 #globalnav #menu ul a:hover {
 	border-top: 1px solid #7f7f7f;
@@ -330,7 +330,7 @@ body.single .navigation {
 	display: block;
 }
 #globalnav #menu ul li:hover > a {
-	background: #000000;
+	background: #ffffff;
 }
 #globalnav #menu ul ul {
 	left: -100%;
@@ -485,7 +485,7 @@ form#commentform .required {
 	width: 7em;
 }
 #sidebar {
-	background: #000000 url('images/footer-bkg.png') top center repeat-x;
+	background: #ffffff url('images/footer-bkg.png') top center repeat-x;
 	clear: both;
 	margin-top: 15px;
 }
@@ -496,7 +496,7 @@ form#commentform .required {
 	width: 780px;
 }
 .sidebar {
-	background: #000000;
+	background: #ffffff;
 	border-top: 1px solid #7f7f7f;
 	float: left;
 	overflow: hidden;
@@ -555,11 +555,11 @@ body.archive .nav-previous {
 	display: none;
 }
 .entry-date a {
-	color: #ffffff;
+	color: #000000;
 }
 .entry-date a:hover,
 .entry-date a:active {
-	color: #ffffff;
+	color: #000000;
 }
 
 
@@ -581,7 +581,7 @@ p.access {
 	margin-right: auto;
 }
 .wp-caption {
-	background-color: #ffffff;
+	background-color: #000000;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
@@ -601,7 +601,7 @@ p.access {
 	border: 0 none;
 }
 .wp-caption p.wp-caption-text {
-	color: #000000;
+	color: #ffffff;
 	font-size: 11px;
 	line-height: 17px;
 	margin: 0;
@@ -636,11 +636,11 @@ p.access {
 -------------------------------------------------------------- */
 
 #flickr_badge_wrapper {
-	background-color: #000000 !important;
+	background-color: #ffffff !important;
 	border: none !important;
 }
 #flickr_badge_wrapper a {
-	color: #ffffff !important;
+	color: #000000 !important;
 }
 
 
@@ -690,7 +690,7 @@ p.access {
 }
 /* Adjust the footer container and handle for the dark color scheme */
 .infinite-scroll .infinite-loader {
-	color: #ffffff;
+	color: #000000;
 }
 /**
 * Hooks to infinity-end body class to restore footer
