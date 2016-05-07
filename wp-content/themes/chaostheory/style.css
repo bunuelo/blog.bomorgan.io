@@ -581,7 +581,7 @@ p.access {
 	margin-right: auto;
 }
 .wp-caption {
-	background-color: #000000;
+	background-color: #ffffff;
 	-moz-border-radius: 3px;
 	-webkit-border-radius: 3px;
 	border-radius: 3px;
@@ -601,7 +601,7 @@ p.access {
 	border: 0 none;
 }
 .wp-caption p.wp-caption-text {
-	color: #ffffff;
+	color: #000000;
 	font-size: 11px;
 	line-height: 17px;
 	margin: 0;
