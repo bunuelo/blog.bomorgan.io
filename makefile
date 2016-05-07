@@ -7,7 +7,7 @@ git-add:
 	git add --all
 
 git-commit:
-	git commit -am "$(COMMIT_MESSAGE)"
+	-git commit -am "$(COMMIT_MESSAGE)"
 
 git-push:
 	git push
