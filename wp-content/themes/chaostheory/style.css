@@ -68,7 +68,7 @@ a {
 body {
 	background: #ffffff;
 	color: #000000;
-	font: "Book Antique", "Times New Roman", Verdana, Arial, Helvetica, Tahoma, sans-serif;
+	font: "Plantin", "Book Antique", "Times New Roman", Verdana, Arial, Helvetica, Tahoma, sans-serif;
 	font-size: 14pt
 }
 a {
@@ -102,7 +102,7 @@ pre {
 	width: 780px;
 }
 header h1 {
-#	font-family: "Book Antique", "Times New Roman", Helvetica, Arial, "Lucida Grande", "Lucida Sans", Verdana, sans-serif;
+#	font-family: "Plantin", "Book Antique", "Times New Roman", Helvetica, Arial, "Lucida Grande", "Lucida Sans", Verdana, sans-serif;
 	font-size: 18pt;
 #	font-weight: normal;
 	margin: 1px 0;
@@ -147,7 +147,7 @@ content .page {
 	width: 100%;
 }
 h2.entry-title {
-	color: #bfbfbf;
+	color: #000000;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: normal;
@@ -176,7 +176,7 @@ h2.entry-title {
 }
 .entry-meta {
 	float: left;
-	font-family: "Book Antique", "Times New Roman", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
+	font-family: "Plantin", "Book Antique", "Times New Roman", "Lucida Grande", "Lucida Sans", Verdana, Arial, sans-serif;
 	font-size: 14pt;
 	width: 250px;
 }
@@ -697,4 +697,52 @@ p.access {
 */
 .infinity-end.neverending #colophon {
 	display: block;
+}
+
+/**
+* Guerilla Author Box (added by Bo)
+*/
+
+.guerrillawrap {
+    background: #ffffff;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    border: 1px solid #7f7f7f;
+    float: left;
+    padding: 2%;
+    width: 100%;
+}
+
+.guerrillagravatar {
+    float: left;
+    margin: 0 10px 0 0;
+    width: 17%;
+}
+
+.guerrillatext {
+    float: left;
+    width: 74%;
+}
+
+.guerrillatext h4 {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+.guerrillatext p {
+    margin: 5px 0 12px 0;
+}
+
+.guerrillasocial {
+    float: left;
+    width: 100%;
+}
+
+.guerrillasocial a {
+    border: 0;
+    margin-right: 10px;
 }
