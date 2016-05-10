@@ -372,7 +372,7 @@ caption {
 	font-size: 12pt;
 	margin: 0 auto 15px;
 	min-height: 100px;
-	text-shadow: #000000 1px 1px 2px;
+	text-shadow: #ff0000 1px 1px 2px;
 	width: 950px;
 }
 h1#site-title {
@@ -1341,7 +1341,7 @@ div.alignright {
 	border-radius: 5px;
 	color: #000000;
 	cursor: pointer;
-	text-shadow: #000 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 	font-size: 14pt;
 	font-weight: normal;
 	padding: 2px 5px;
