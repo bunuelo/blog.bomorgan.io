@@ -372,7 +372,7 @@ caption {
 	font-size: 12pt;
 	margin: 0 auto 15px;
 	min-height: 100px;
-	text-shadow: #ff0000 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 	width: 950px;
 }
 h1#site-title {
@@ -607,7 +607,7 @@ h2.entry-title a:hover {
 	position: absolute;
 	top: -10px;
 	left: -10px;
-	text-shadow: #000 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 }
 .entry-byline a {
 	color: #000000;
@@ -691,7 +691,7 @@ div.entry-navigation {
 	display: none;
 }
 .sticky h2.entry-title {
-	text-shadow: #7f7f7f 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 }
 .sticky h2.entry-title,
 .sticky h2.entry-title a {
