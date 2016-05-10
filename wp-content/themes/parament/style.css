@@ -1432,3 +1432,50 @@ div.alignright {
 .infinity-end.neverending #colophon {
 	display: block;
 }
+/**
+* Guerilla Author Box (added by Bo)
+*/
+
+.guerrillawrap {
+    background: #ffffff;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -ms-box-sizing:border-box;
+    box-sizing:border-box;
+    border: 1px solid #7f7f7f;
+    float: left;
+    padding: 2%;
+    width: 100%;
+}
+
+.guerrillagravatar {
+    float: left;
+    margin: 0 10px 0 0;
+    width: 17%;
+}
+
+.guerrillatext {
+    float: left;
+    width: 74%;
+}
+
+.guerrillatext h4 {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 0 0 0 0;
+    padding: 0;
+}
+
+.guerrillatext p {
+    margin: 5px 0 12px 0;
+}
+
+.guerrillasocial {
+    float: left;
+    width: 100%;
+}
+
+.guerrillasocial a {
+    border: 0;
+    margin-right: 10px;
+}
