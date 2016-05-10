@@ -472,7 +472,7 @@ h2#site-description a {
 }
 #menu li:hover > a,
 #menu a:focus {
-	background: #ffffff;
+	background: #ff0000;
 }
 #menu a:focus,
 #menu a:active,
