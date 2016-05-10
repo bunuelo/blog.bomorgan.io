@@ -399,13 +399,13 @@ h2#site-description a {
 
 #menu {
 	background: #ffffff;
-	background: -moz-linear-gradient( top, #ffffff 1%, #000000 100% );
-	background: -webkit-gradient( linear, left top, left bottom, color-stop( 1%, #ffffff ), color-stop( 100%, #000000 ) );
-	background: -webkit-linear-gradient( top, #ffffff 1%, #000000 100% );
-	background: -o-linear-gradient( top, #ffffff 1%, #000000 100% );
-	background: -ms-linear-gradient( top, #ffffff 1%, #000000 100% );
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#000000', GradientType=0 );
-	background: linear-gradient( top, #ffffff 1%, #000000 100% );
+	background: -moz-linear-gradient( top, #ffffff 1%, #7f7f7f 100% );
+	background: -webkit-gradient( linear, left top, left bottom, color-stop( 1%, #ffffff ), color-stop( 100%, #7f7f7f ) );
+	background: -webkit-linear-gradient( top, #ffffff 1%, #7f7f7f 100% );
+	background: -o-linear-gradient( top, #ffffff 1%, #7f7f7f 100% );
+	background: -ms-linear-gradient( top, #ffffff 1%, #7f7f7f 100% );
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#7f7f7f', GradientType=0 );
+	background: linear-gradient( top, #ffffff 1%, #7f7f7f 100% );
 	border: 1px solid #7f7f7f;
 	border-radius: 7px;
 	clear: both;
