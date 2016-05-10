@@ -13,6 +13,7 @@ print-usage:
 	@echo "  git-commit"
 	@echo "  git-push"
 	@echo "  git-development-cycle"
+	@echo "  fix-permissions"
 	@echo ""
 
 COMMIT_MESSAGE="editing..."
@@ -30,4 +31,7 @@ git-push:
 	git push
 
 git-development-cycle:
-	make git-pull; make git-add; make git-commit; make git-push
+	make git-pull; make fix-permissions; make git-add; make git-commit; make git-push
+
+fix-permissions:
+	chmod -R a+r .
