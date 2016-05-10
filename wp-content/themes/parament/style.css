@@ -1000,7 +1000,7 @@ div.entry-navigation {
 	color: #000000;
 	font-weight: normal;
 	text-align: center;
-	text-shadow: #7f7f7f 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 }
 #comments-title {
 	margin: 60px 0 0 15px;
@@ -1173,7 +1173,7 @@ div.entry-navigation {
 	font-size: 14pt;
 	margin: 0;
 	padding: 3px 5px;
-	text-shadow: #7f7f7f 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 }
 .comment-form-author,
 .comment-form-url,
@@ -1210,7 +1210,7 @@ div.entry-navigation {
 	border-radius: 5px;
 	color: #000000;
 	cursor: pointer;
-	text-shadow: #7f7f7f 1px 1px 2px;
+	text-shadow: #000000 1px 1px 2px;
 	font-size: 14pt;
 	font-weight: normal;
 	padding: 2px 5px;
