@@ -473,7 +473,7 @@ h2#site-description a {
 #menu li:hover > a,
 #menu a:focus {
 	background: #000000;
-	color: #ffffff
+	color: #ffffff;
 }
 #menu a:focus,
 #menu a:active,
