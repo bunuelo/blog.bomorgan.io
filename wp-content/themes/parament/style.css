@@ -92,6 +92,7 @@ a:hover,
 a:active,
 a:focus {
 	outline: 0;
+	text-decoration: underline;
 }
 abbr,
 acronym {
