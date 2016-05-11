@@ -372,7 +372,7 @@ caption {
 	font-size: 12pt;
 	margin: 0 auto 15px;
 	min-height: 100px;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 	width: 950px;
 }
 h1#site-title {
@@ -441,9 +441,9 @@ h2#site-description a {
 }
 #menu ul ul {
 	border-top: 1px solid #7f7f7f;
-	-moz-box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );
-	-webkit-box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );
-	box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );
+	/*-moz-box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );*/
+	/*-webkit-box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );*/
+	/*box-shadow: 0 3px 3px rgba( 0, 0, 0, 0.2 );*/
 	display: none;
 	float: left;
 	margin: 0;
@@ -607,7 +607,7 @@ h2.entry-title a:hover {
 	position: absolute;
 	top: -10px;
 	left: -10px;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 }
 .entry-byline a {
 	color: #000000;
@@ -689,7 +689,7 @@ div.entry-navigation {
 	display: none;
 }
 .sticky h2.entry-title {
-	text-shadow: #000000 1px 1px 2px;
+    /*text-shadow: #000000 1px 1px 2px;*/
 }
 .sticky h2.entry-title,
 .sticky h2.entry-title a {
@@ -778,9 +778,9 @@ div.entry-navigation {
 .entry-byline,
 .hentry,
 .widget {
-	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
-	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
-	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
+    /*-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
+    /*-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
+    /*box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
 }
 
 
@@ -998,7 +998,7 @@ div.entry-navigation {
 	color: #000000;
 	font-weight: normal;
 	text-align: center;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 }
 #comments-title {
 	margin: 60px 0 0 15px;
@@ -1171,7 +1171,7 @@ div.entry-navigation {
 	font-size: 14pt;
 	margin: 0;
 	padding: 3px 5px;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 }
 .comment-form-author,
 .comment-form-url,
@@ -1208,7 +1208,7 @@ div.entry-navigation {
 	border-radius: 5px;
 	color: #000000;
 	cursor: pointer;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 	font-size: 14pt;
 	font-weight: normal;
 	padding: 2px 5px;
@@ -1339,7 +1339,7 @@ div.alignright {
 	border-radius: 5px;
 	color: #000000;
 	cursor: pointer;
-	text-shadow: #000000 1px 1px 2px;
+	/*text-shadow: #000000 1px 1px 2px;*/
 	font-size: 14pt;
 	font-weight: normal;
 	padding: 2px 5px;
@@ -1407,14 +1407,14 @@ div.alignright {
 	color:  #000000;
 }
 .infinite-scroll #infinite-handle span {
-	-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
-	-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
-	background: #ffffff;
-	border: 1px solid #7f7f7f;
-	border-radius: 7px;
-	box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );
-	display: inline-block;
-	padding: 1em 1.5em;
+    /*-webkit-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
+    /*-moz-box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
+    background: #ffffff;
+    border: 1px solid #7f7f7f;
+    border-radius: 7px;
+    /*box-shadow: .2em .2em .3em rgba( 0, 0, 0, 0.45 );*/
+    display: inline-block;
+    padding: 1em 1.5em;
 }
 .infinite-scroll #infinite-handle span,
 .infinite-scroll #infinite-handle span:before {
